@@ -1,8 +1,8 @@
 
 ##  A Listing of Favorite Projects
-## Plaza Walk
-###  [/assets/plazawalk.png](https://www.youtube.com/watch?v=clG0zYToX9M)
+### Plaza Walk
 ###  [github code](https://github.com/flocela/PlazaWalkCCode)
 ###  [Demo Video](https://www.youtube.com/watch?v=clG0zYToX9M)
+###  [/assets/plazawalk.png](https://www.youtube.com/watch?v=clG0zYToX9M)
 
 
