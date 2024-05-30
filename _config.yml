@@ -1,5 +1,6 @@
-#title: Aurea Flocela Maldonado
-#description: Listing of Favorite Projects
+title: Aurea Flocela Maldonado
+logo: /assets/portrait-github.png
+description: Seeking C++ development work.
 show_downloads: false
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
