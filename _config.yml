@@ -1,9 +1,10 @@
 title: Aurea Flocela Maldonado
 logo: /assets/portrait-github.png
-description: |
-  Seeking C++ development work.\n
-  \n
-  <a href=https://www.linkedin.com/in/flocela-maldonado/>linkedin.com/in/flocela-maldonado4</a>
+description: >
+  This is
+  that spans several lines in the YAML
+  but which will be rendered as a string
+  with only a single carriage return appended to the end.
 show_downloads: false
 
 theme: jekyll-theme-minimal
