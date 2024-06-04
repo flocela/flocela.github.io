@@ -17,5 +17,5 @@ Cantando Inglés was an Android application on Google Play that taught English t
 
 ### Inglés Aventurero Android App
 Inglés Aventurero was an Android application that taught English to Spanish speakers using scenarios and role play. Unfortunately I've discontinued it.
-####  [Github Code](https://github.com/flocela/IngAve-Android)&nbsp;&nbsp;&nbsp;&nbsp;[Demo Video](https://www.youtube.com/watch?v=QP8F9KVbIA4&t=2m18s)
+####  [Github Code](https://github.com/flocela/IngAve-Android)&nbsp;&nbsp;&nbsp;&nbsp;[Demo Video](https://www.youtube.com/watch?v=QP8F9KVbIA4&t=2m20s)
 ###  [![InglésAventureroVideo](/assets/inglesAventurero.png)](https://www.youtube.com/watch?v=QP8F9KVbIA4&t=2m20s)
